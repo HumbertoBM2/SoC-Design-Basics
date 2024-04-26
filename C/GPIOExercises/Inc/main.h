@@ -1,4 +1,4 @@
-// Humberto Barrera Martínez A00836271
+// Humberto Barrera 
 // main.h
 #ifndef MAIN_H_
 #define MAIN_H_
