@@ -1,10 +1,10 @@
 # Equipo 1
 # Entregable de reto 1. Visualización gráfica de comportamiento del tractor
 
-# Humberto Barrera Martínez A00836271
-# Catalina Isabel Muñoz Martínez A01763355
-# Erick Giovani Campos Aguirre A01247257
-# Mauricio Zavala Sánchez A00837332
+# Humberto Barrera 
+# Catalina Isabel Muñoz 
+# Erick Giovani Campos 
+# Mauricio Zavala 
 
 # Código de python para generar datos de forma aleatoria, referentes a velocidad angular,
 # radio de la rueda y relación de la transmisión de un tractor con la finalidad de calcular

@@ -1,4 +1,4 @@
-// Humberto Barrera Martínez A00836271
+// Humberto Barrera 
 // main.c
 /* Libraries, Definitions and Global Declarations */
 #include <stdint.h>
