@@ -15,10 +15,10 @@ This repository contains a series of codes developed for the SoC (System on Chip
 
 ## Repository Contents
 The repository is organized into the following folders:
-- `python`: Contains Python scripts.
-- `assembly`: Contains ARM Assembly code.
-- `c`: Contains C code.
-- `bash`: Contains Bash scripts.
+- `Python`: Contains Python scripts.
+- `ARM Assembly`: Contains ARM Assembly code.
+- `C`: Contains C code.
+- `Bash`: Contains Bash scripts.
 
 Each folder may contain subfolders that include all the needed files for a specific application.  
 
