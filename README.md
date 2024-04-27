@@ -26,7 +26,7 @@ Each folder may contain subfolders that include all the needed files for a speci
 Before using the codes in this repository, ensure you have the following prerequisites installed:
 - [STM32 Nucleo-F103RB Module](https://www.st.com/en/evaluation-tools/nucleo-f103rb.html)
 - [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
-- Python: [Download Python](https://www.python.org/downloads/)
+- [Python](https://www.python.org/downloads/)
 - Bash
 - C Compiler (e.g., GCC)
 
