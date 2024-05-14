@@ -23,7 +23,7 @@ The repository is organized into the following folders:
 Each folder may contain subfolders that include all the needed files for a specific application.  
 
 ## Prerequisites
-Before using the codes in this repository, ensure you have the following prerequisites installed:
+Before using the codes in this repository, ensure you have the following prerequisites:
 - [STM32 Nucleo-F103RB Module](https://www.st.com/en/evaluation-tools/nucleo-f103rb.html)
 - [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
 - [Python](https://www.python.org/downloads/)
