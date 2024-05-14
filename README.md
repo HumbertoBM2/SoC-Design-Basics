@@ -8,6 +8,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/ARM%20Assembly-%20gray?style=for-the-badge&logo=bash)
+![STM32](https://img.shields.io/badge/Nucleo_F103RB-blue?style=for-the-badge&logo=stmicroelectronics)
+![Rasp](https://img.shields.io/badge/Raspberry%20Pi-gray?style=for-the-badge&logo=Raspberry%20Pi)
 </div>
 
 ## Overview
